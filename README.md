@@ -1,6 +1,8 @@
-### npm install --save faker
-
 # Getting Started with Create React App
+
+## Install Faker
+
+### `npm install --save faker`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
