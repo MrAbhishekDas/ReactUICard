@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+## Install React globally 
+
+### `npm install -g create-react-app`
+
+## Install React dependencies for single prokject
+
+### `npm install react`
+
 ## Install Faker
 
 ### `npm install --save faker`
